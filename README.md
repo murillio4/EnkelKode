@@ -3,7 +3,7 @@
 Om du ikke vet hvordan du bruker GIT, så last ned på denne måten
 1. Trykk på knappen "Downloade Zip".
 2. Åpne zip filen og klikk deg innover til du kommer til filene.
-3. Fjern .gitattributes .gitignore (om du ser dem, ellers ikke bry deg om dem)
+3. Fjern .gitattributes, .gitignore (om du ser dem, ellers ikke bry deg om dem) og nbproject mappen
 4. Putt resten av filene og mappene inn i et nytt prosjekt, eller putt det i en mappe rett inn i webserveren.
 
 
